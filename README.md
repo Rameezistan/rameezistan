@@ -34,7 +34,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rameezistan&" alt="rameezistan" /></p>
 
-### ✍️ Random Dev Quote
+### ✍️ Quote from a Famous Dev
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
